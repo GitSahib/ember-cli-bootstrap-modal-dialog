@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-bootstrap-modal-dialog/components/modal-dialog';
